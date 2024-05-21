@@ -1,4 +1,4 @@
-## NPS Formula Derivation
+## NPS Cost Formula Derivation
 
 Let $P_t$, $N_t$, and $D_t$ be the fractions of promoters, neutrals, and detractors at time $t$ for a population $n_t$. If $G_P$, $G_N$, and $G_D$ are the average expenditures of a member of each group, the total expenditure of the population will be:
 

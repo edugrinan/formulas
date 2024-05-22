@@ -31,5 +31,5 @@ $$
 * Assumption 3: If the behavior of neutrals is similar to that of promoters, $X_P \approx X_N \equiv X$.
 
 $$
-\Delta G_{t+1,t} = n X \left( P_{t+1} - P_t  + N_{t+1} - N_t \right) = n X \left( D_t - D_{t+1} \right) 
+\Delta G_{t+1,t} = n X \left( P_{t+1} - P_t  + N_{t+1} - N_t \right) \Rightarrow \Delta G_{t+1,t} = n X \left( D_t - D_{t+1} \right) 
 $$

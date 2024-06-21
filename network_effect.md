@@ -42,5 +42,9 @@ This same factor can be defined for the second neighbors (SN), $\Delta G_{SN, P-
 Finally, we have the formula:
 
 $$
-\frac{\Delta \text{NPS} * \text{nº total}}{ 2 * 100} * \left[ \Delta G_{0, P-D} + \Delta G_{FN, P-D} + \Delta G_{SN, P-D} \right]
+\frac{\Delta \text{NPS} * \text{N}}{2 * 100} * \left[ \Delta G_{0, P-D} + \Delta G_{FN, P-D} + \Delta G_{SN, P-D} \right]
 $$
+
+### Corrections
+
+If we consider that a customer does not have an immediate effect on all their network but only influences a fraction $\alpha$ of it, then the term $\Delta G_{FN, P-D}$ should be multiplied by this factor $\alpha$.

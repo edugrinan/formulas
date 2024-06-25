@@ -4,7 +4,7 @@
 Recall that the income variation due to a certain $\Delta \text{NPS}$ in a population $\text{N}$ was:
 
 $$
-\Delta G_{P-D} * \frac{\Delta \text{NPS} * \text{N}}{ 2 * 100} 
+\frac{\Delta \text{NPS} * \text{N}}{ 2 * 100} * \Delta G_{P-D}
 $$
 
 In this expression, the factor
